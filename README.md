@@ -1,2 +1,2 @@
 # outfit-recommender
-To build an outfit recommender using git
+To build an outfit recommender using git for version control.
